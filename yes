@@ -1,0 +1,95 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("masans hub", "Ocean")
+
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("Scripts")
+
+Section:NewButton("SHAKAR60 HUB", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/was/main/ted",true))()
+    print("Clicked")
+end)
+
+Section:NewButton("fly script", "ButtonInfo", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+    print("Clicked")
+end)
+
+Section:NewButton("pop it trading", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sponge123456789/Sponge/main/The%20cool%20Script"))()
+    print("Clicked")
+end)
+
+Section:NewButton("teleport", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/i4mitty/MysteryHub/main/MysteryHub%20-%20Ragdoll%20Engine.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("invisible", "ButtonInfo", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/AYtzGEPb'))()
+    print("Clicked")
+end)
+
+Section:NewButton("lag switch", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/Protected%20-%202023-05-28T225112.055.lua.txt'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("car", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkoTubeYT/carscript/master/!carscript.lua',true))()
+    print("Clicked")
+end)
+
+Section:NewButton("me admin", "legadmin", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua'))()
+    print("Clicked")
+end)
+
+Section:NewButton("fakemacro", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lolscrpyw/Nepx-hub-with-fake-macro-made-by-me/main/Next%20hub%20with%20fake%20macro%20%20by%20me"))()
+    print("Clicked")
+end)
+
+Section:NewButton("kat", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Kat12/main/Kat"))()
+    print("Clicked")
+end)
+
+Section:NewButton("raceclicker", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0raceclicker", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("pop it2", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kiroftt/popit/main/scripx'))();
+    print("Clicked")
+end)
+
+Section:NewButton("garanawa", "ButtonInfo", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/cgWLwdN9", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("halahala", "ButtonInfo", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/SBbr8YHZ'))()
+    print("Clicked")
+end)
+
+Section:NewButton("shuen xazn krdm", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/Tp%20Place%20GUI'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("baqawat", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0strongman", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("blox fruit", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/ChestFarmOp"))()
+    print("Clicked")
+end)
+
+Section:NewButton("blox fruit 2", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Chest_onoff"))()
+    print("Clicked")
+end)
